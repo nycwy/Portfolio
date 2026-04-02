@@ -36,7 +36,7 @@ const About = () => {
                             Santosh Khatri<span className='text-orange-500'>.</span>
                         </h2>
                         <p className="text-slate-300 font-medium leading-relaxed text-lg">
-                            I am a <span className=' text-orange-400 px-1 border border-white'>Web Developer </span>
+                            A <span className=' text-orange-400 px-1 border border-white'>Web Developer </span>
                             based in Nepal who loves building fast, easy-to-use websites. Building upon my formal Computer Science background,
                             I am a self-driven learner who taught myself modern web technologies. I focus on writing clean code, crafting great user experiences,
                             and constantly expanding my technical skills. I am actively seeking opportunities to contribute to real-world projects and eager to
