@@ -11,7 +11,7 @@ const Home = () => {
                     <img
                         src={avatar}
                         className="h-[70vh] w-auto object-contain opacity-30"
-                        alt="Santosh Khatri Avatar"
+                        alt="Santosh Khatri"
                     />
                 </div>
 
