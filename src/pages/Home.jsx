@@ -106,7 +106,7 @@ const Home = () => {
                     <img
                         src={avatar}
                         className="w-96 h-130 object-cover transition-all duration-500"
-                        alt="Santosh Khatri Avatar"
+                        alt="Santosh Khatri"
                     />
                 </div>
             </div>
